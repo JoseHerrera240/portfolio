@@ -1,58 +1,61 @@
-.fixed-position{
-    position: fixed;
+.fixed-position {
+  position: fixed;
 }
-.parent-nav-bar{
-    display: flex;
-    height: 68px;
-    padding: 0 43px;
-    align-items: center;
-    justify-content: space-between;
-    button{
-        padding: 6px;
-        background: #fecc01;
-        font-size: 16px;
-        border-radius: 3px;
-        border: none;
-        cursor: pointer;
-        font-family: 'Roboto Condensed';
-        font-weight: 600;
-    }
+.parent-nav-bar {
+  display: flex;
+  height: 68px;
+  padding: 0 43px;
+  align-items: center;
+  justify-content: space-between;
+  button {
+    padding: 6px;
+    background: #fecc01;
+    font-size: 16px;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    font-family: "Roboto Condensed";
+    font-weight: 600;
+  }
 }
 .buttons-modals {
-    display: flex;
-justify-content: flex-start;
-flex-direction: row-reverse;
-    button {
-      margin: 7px 12px;
-      border: 0;
-      border-radius: 5px;
-      cursor: pointer;
-      padding: 5px;
-      background-color: #1c1c19;
-      color: #fecc01;
-    }
-    a{
-        text-decoration: none;
-        color: #fecc01;
-      }
-    button:hover {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row-reverse;
+  img{
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  button {
+    margin: 7px 12px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 5px;
+    background-color: #1c1c19;
+    color: #fecc01;
+  }
+  a {
+    text-decoration: none;
+    color: #fecc01;
+  }
+  button:hover {
+    color: #1c1c19;
+    background-color: #fecc01;
+    & a {
       color: #1c1c19;
-      background-color: #fecc01;
-      & a{
-        color: #1c1c19;
-      }
     }
   }
+}
 .parent-modal {
-    position: fixed;
-    max-height: 173px;
-    height: 100%;
-    bottom: -117px;
-    width: 100%;
+  position: fixed;
+  max-height: 173px;
+  height: 100%;
+  bottom: -117px;
+  width: 100%;
   .modal {
     height: 100%;
-   
-   
+
     .modal-content {
       background-color: #fecc01;
       padding: 9px 16px;
@@ -64,7 +67,6 @@ flex-direction: row-reverse;
       .close-button {
         cursor: pointer;
       }
-      
     }
   }
 }
