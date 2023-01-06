@@ -7,7 +7,7 @@
   padding-bottom: 62px;
   justify-content: center;
   font-family: "Roboto Condensed";
-  box-shadow: 1px -2px 20px 0px  #b1ab92;
+  box-shadow: 1px -2px 20px 0px #b1ab92;
   .parragraph-mb {
     margin-bottom: 50px;
     font-size: 18px;
@@ -58,6 +58,20 @@
         padding: 2px;
         align-content: center;
       }
+    }
+  }
+}
+@media (max-width: 1046px) {
+  .parent-second-section {
+    .parragraph-mb {
+      text-align: center;
+    }
+    div {
+      display: flex;
+      flex-direction: row;
+      max-height: 500px;
+      flex-wrap: wrap;
+      justify-content: center;
     }
   }
 }
