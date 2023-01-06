@@ -14,29 +14,29 @@ export const SecondSection = () => {
             <div>
                 <section>
                     <img alt='svg' src={store} />
-                    <button className='display-button-image'>Visitar</button>
+                    <a href='https://joseherrera240.github.io/sneakers/' target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
                 </section>
                 <section>
                     <img alt='svg' src={optiHelp} />
-                    <button className='display-button-image'>Visitar</button>
+                    <a href='https://jorgeemherrera.github.io/optihelp/'target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
                 </section>
                 <section>
                     <img alt='svg' src={mokepon} style={{height: '139px'}} />
-                    <button className='display-button-image'>Visitar</button>
+                    <a href='https://joseherrera240.github.io/'target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
                 </section>
             </div>
             <div>
                 <section>
                     <img alt='svg' src={movies} />
-                    <button className='display-button-image'>Visitar</button>
+                    <a href='https://joseherrera240.github.io/movies/'target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
                 </section>
                 <section>
                     <img alt='svg' src={food} />
-                    <button className='display-button-image'>Visitar</button>
+                    <a href='https://joseherrera240.github.io/sneakers/'target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
                 </section>
                 <section>
                     <img alt='svg' src={melany} style={{height: '149px'}}/>
-                    <button className='display-button-image'>Visitar</button>
+                    <a href='https://melanygrajales12.github.io/'target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
                 </section>
             </div>
         </div>

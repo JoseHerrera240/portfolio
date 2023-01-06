@@ -39,6 +39,10 @@
       img {
         filter: brightness(0.4);
       }
+      a{
+        text-decoration: none;
+        color: black;
+      }
       .display-button-image {
         position: relative;
         display: flex;
@@ -57,6 +61,7 @@
         background: #fecc01;
         padding: 2px;
         align-content: center;
+        
       }
     }
   }
