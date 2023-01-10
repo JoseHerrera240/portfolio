@@ -15,8 +15,8 @@ export const FirstSection = () => {
     return (
         <div className='parent-first-section'>
             <p className='first-tittle'>
-                Desarrollador FrontEnd junior
-                <span>Soy un Desarrollador FrontEnd, con experiencias freelance y estudiante del cesde. tengo experiencia en las siguientes herramientas:</span>
+                Desarrollador front-end junior
+                <span>Soy un desarrollador front-end, con experiencias freelance y estudiante del Cesde. Tengo experiencia en las siguientes herramientas:</span>
             </p>
             <div className='icons'>
                 <a href='https://es.reactjs.org/' target="_blank" rel="noopener noreferrer"><img src={react} alt='react' width='50px' /></a>

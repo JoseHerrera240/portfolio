@@ -9,8 +9,8 @@ import food from '../../../Assets/Images/food.png';
 export const SecondSection = () => {
     return (
         <div className='parent-second-section'>
-        <h1>Mis ultimos proyectos</h1>
-        <p className='parragraph-mb'>Aquí puedes ver los ultimos proyectos en los que he trabajado, ya sea por estudio o independientes.</p>
+        <h1>Mis últimos proyectos</h1>
+        <p className='parragraph-mb'>Aquí puedes ver los últimos proyectos en los que he trabajado, ya sea por estudio o independientes.</p>
             <div>
                 <section>
                     <img alt='svg' src={store} />
