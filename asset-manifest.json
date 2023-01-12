@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.389abfb6.css",
-    "main.js": "/portfolio/static/js/main.b9d04cac.js",
+    "main.css": "/portfolio/static/css/main.9a8bd14d.css",
+    "main.js": "/portfolio/static/js/main.5135d2cb.js",
     "static/js/787.632fa2d4.chunk.js": "/portfolio/static/js/787.632fa2d4.chunk.js",
     "static/media/movies.png": "/portfolio/static/media/movies.aa5af6817b764b63d1ea.png",
     "static/media/store.png": "/portfolio/static/media/store.4493381f8f368b1895e7.png",
-    "static/media/food.png": "/portfolio/static/media/food.5f312072eddf56c15f55.png",
     "static/media/melanny.png": "/portfolio/static/media/melanny.00e2174c568c4f3dfe73.png",
     "static/media/graphql.png": "/portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/optihelp.png": "/portfolio/static/media/optihelp.8d3befeb61e6c63c6ef6.png",
+    "static/media/todo.png": "/portfolio/static/media/todo.d176152352f6a70f60c4.png",
     "static/media/mokepon.png": "/portfolio/static/media/mokepon.71d6cd37cc4e2484793a.png",
     "static/media/sass.png": "/portfolio/static/media/sass.91714f748188b46f4e33.png",
     "static/media/whatsapp.png": "/portfolio/static/media/whatsapp.cb5c92cfbbdfe9afa8d8.png",
@@ -24,12 +24,12 @@
     "static/media/js.png": "/portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/linkedin.png": "/portfolio/static/media/linkedin.13035068ddd54fca740f.png",
     "index.html": "/portfolio/index.html",
-    "main.389abfb6.css.map": "/portfolio/static/css/main.389abfb6.css.map",
-    "main.b9d04cac.js.map": "/portfolio/static/js/main.b9d04cac.js.map",
+    "main.9a8bd14d.css.map": "/portfolio/static/css/main.9a8bd14d.css.map",
+    "main.5135d2cb.js.map": "/portfolio/static/js/main.5135d2cb.js.map",
     "787.632fa2d4.chunk.js.map": "/portfolio/static/js/787.632fa2d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.389abfb6.css",
-    "static/js/main.b9d04cac.js"
+    "static/css/main.9a8bd14d.css",
+    "static/js/main.5135d2cb.js"
   ]
 }
