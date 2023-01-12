@@ -3,7 +3,6 @@ import './ThirdSection.scss'
 export const ThirdSection = () => {
     return (
         <div className="parent-third-section">
-            <h1>Hola, Soy José</h1>
             <p className='parragraph-third'>
                 Actualmente estudio en el Cesde, ya cursando el último semestre.
                 También he trabajado en proyectos libres y personales.
