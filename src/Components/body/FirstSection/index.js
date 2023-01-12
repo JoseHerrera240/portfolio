@@ -15,6 +15,7 @@ export const FirstSection = () => {
     return (
         <div className='parent-first-section'>
             <p className='first-tittle'>
+                Jose David Herrera Largo <br/>
                 Desarrollador front-end junior
                 <span>Soy un desarrollador front-end, con experiencias freelance y estudiante del Cesde. Tengo experiencia en las siguientes herramientas:</span>
             </p>

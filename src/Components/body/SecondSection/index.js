@@ -4,7 +4,7 @@ import melany from '../../../Assets/Images/melanny.png';
 import store from '../../../Assets/Images/store.png';
 import optiHelp from '../../../Assets/Images/optihelp.png';
 import movies from '../../../Assets/Images/movies.png';
-import food from '../../../Assets/Images/food.png';
+import todo from '../../../Assets/Images/todo.png';
 
 export const SecondSection = () => {
     return (
@@ -14,7 +14,7 @@ export const SecondSection = () => {
             <div>
                 <section>
                     <img alt='svg' src={store} />
-                    <a href='https://joseherrera240.github.io/sneakers/' target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
+                    <a href='https://JoseHerrera240.github.io/products' target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
                 </section>
                 <section>
                     <img alt='svg' src={optiHelp} />
@@ -31,8 +31,8 @@ export const SecondSection = () => {
                     <a href='https://joseherrera240.github.io/movies/'target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
                 </section>
                 <section>
-                    <img alt='svg' src={food} />
-                    <a href='https://joseherrera240.github.io/sneakers/'target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
+                    <img alt='svg' src={todo} style={{height: '145px' }}/>
+                    <a href='https://joseherrera240.github.io/todo/'target="_blank" rel="noopener noreferrer"><button className='display-button-image'>Visitar</button></a>
                 </section>
                 <section>
                     <img alt='svg' src={melany} style={{height: '149px'}}/>
