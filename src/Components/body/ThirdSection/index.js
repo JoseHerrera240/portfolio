@@ -5,8 +5,7 @@ export const ThirdSection = () => {
         <div className="parent-third-section">
             <p className='parragraph-third'>
                 Actualmente estudio en el Cesde, ya cursando el último semestre.
-                También he trabajado en proyectos libres y personales.
-                Me gusta mucho este mundo y seguir aprendiendo  para volverme un mejor desarrollador.
+                También Trabajo, me gusta este mundo y quisiera seguir aprendiendo
             </p>
             <div>
                 <section>
@@ -39,8 +38,7 @@ export const ThirdSection = () => {
                     <h1>Estudios</h1>
                     <p>
                         He estudiado desde hace aproximadamente 3 años en diferentes plataformas.
-                        Creo que en cualquier campo, siempre se debe seguir estudiando, por eso he aprendido a ser autodidacta, ya que
-                        muchas de las ayudas se encuentran hasta en Youtube, eso es lo mágico de esta carrera, que todo es un libro abierto.<br />
+                        Creo que en cualquier campo, siempre se debe seguir estudiando, Por eso aprendí a ser autodidacta, puesto que muchas de las ayudas se encuentran hasta en Youtube, eso es lo mágico de esta carrera, que todo es un libro abierto.<br />
                         Por consiguiente mis estudios han sido en las siguientes plataformas:
                     </p>
                     <ul style={{ width: '100%' }}>

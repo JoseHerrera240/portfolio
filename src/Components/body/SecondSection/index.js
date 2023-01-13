@@ -10,7 +10,7 @@ export const SecondSection = () => {
     return (
         <div className='parent-second-section'>
         <h1>Mis últimos proyectos</h1>
-        <p className='parragraph-mb'>Aquí puedes ver los últimos proyectos en los que he trabajado, ya sea por estudio o independientes.</p>
+        <p className='parragraph-mb'>Aquí puedes ver los últimos proyectos en los que he trabajé, unos con fines académicos y otros independientes.</p>
             <div>
                 <section>
                     <img alt='svg' src={store} />
